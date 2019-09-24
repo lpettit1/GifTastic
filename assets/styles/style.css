@@ -1,0 +1,36 @@
+button, div, form, input {
+    margin: 10px;
+
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+label {
+    text-align: center;
+    color: aqua;
+    font-size: large;
+}
+
+.btn-default {
+    color: blueviolet;
+    font-size: large;
+}
+
+body {
+    background-image: url("../images/img1.jpg");
+    font-family: 'IBM Plex Serif', serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+    font-size: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+  
