@@ -10,17 +10,18 @@ img {
 
 label {
     text-align: center;
-    color: aqua;
+    color: black;
     font-size: large;
 }
 
-.btn-default {
+.btn-success {
     color: blueviolet;
     font-size: large;
+    
 }
 
 body {
-    background-image: url("../images/img1.jpg");
+    background: black;
     font-family: 'IBM Plex Serif', serif;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,9 +29,12 @@ body {
 
 h1 {
     text-align: center;
-    color: aqua;
+    color: black;
     font-size: 300px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
   
+.form-control {
+    width: 30%;
+}
